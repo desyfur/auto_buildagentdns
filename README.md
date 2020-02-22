@@ -1,4 +1,4 @@
-# auto_buildagentdns
+# buildagentdns
 Creates DNS entries for build server and build agents
 
 Set the build IP depending on the IP address of your build server.
